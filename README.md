@@ -6,7 +6,7 @@
 
 ***
 
-## Key Vocabu
+## Key Vocab
 
 - **Schema**: the blueprint of a database. Describes how data relates to other
   data in tables, columns, and relationships between them.
